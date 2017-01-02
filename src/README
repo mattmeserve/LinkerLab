@@ -1,0 +1,9 @@
+LinkerLab by Matthew Meserve
+
+For compilation and running, type
+
+javac Linker.java
+java Linker input.txt (or whatever the name of the input file is)
+
+Option chosen: command line name of file
+input file is included, just change the text inside if you want to keep the name, but it should work for any file name provided you change the command line input
